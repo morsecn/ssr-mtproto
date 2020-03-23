@@ -5,7 +5,7 @@
 CentOS 6+/Debian 6+/Ubuntu 14.04+
 
 ## USE
-### 1.Log in your linux-server
+### 1.Log into your linux-server
 Windows:Download [Xshell](https://www.netsarang.com/en/xshell-download/);
 
 Mac&Linux:Open Terminal:
