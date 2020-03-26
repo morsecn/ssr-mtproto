@@ -1,6 +1,6 @@
 # SSR-MTPROTO
 # “Across the Great Wall we can reach every corner in the world.”
-[简体中文](https://github.com/morsecn/ssr-mtproto/blob/master/README_CN.md)&[English](https://github.com/morsecn/ssr-mtproto/blob/master/README.md)
+[简体中文](https://github.com/morsecn/ssr-mtproto/blob/master/README_CN.md) & [English](https://github.com/morsecn/ssr-mtproto/blob/master/README.md)
 ## System Required
 CentOS 6+/Debian 6+/Ubuntu 14.04+
 
