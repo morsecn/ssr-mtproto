@@ -17,7 +17,9 @@ Mac&Linux:Open Terminal:
 `yum install git`
 ### 3.Run 
 `git clone https://github.com/morsecn/ssr-mtproto`
+`cd ssr-mtproto`
 #### Install ssr:
+`chmod 755 ssr.sh`
 `./ssr.sh`
 #### Install mtproto:
 `./mtproto.sh`
